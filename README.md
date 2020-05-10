@@ -1,4 +1,5 @@
 # Resources
 Resources to make life Easy
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
+
+1. Play With PDF
+  www.ilovepdf.com
