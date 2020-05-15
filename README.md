@@ -23,3 +23,7 @@ Resources to make life Easy
     18. Organize PDF
     19. PDF to PDF/A
     20. Repair PDF
+
+2. Top JavaScript Courses
+    1. DevelopedByEd:
+            The Creative JavaScript Course : https://developedbyed.com/p/the-creative-javascript-course
