@@ -26,6 +26,8 @@ Resources to make life Easy
 
 2. Top JavaScript Courses
     1. DevelopedByEd:  
-            The Creative JavaScript Course : https://developedbyed.com/p/the-creative-javascript-course
+            The Creative JavaScript Course :   
+            https://developedbyed.com/p/the-creative-javascript-course
     2. Jonas Schmedmetmann:  
-            The Complete JavaScript Course 2020: Build Real Projects!: https://www.udemy.com/course/the-complete-javascript-course/
+            The Complete JavaScript Course 2020: Build Real Projects!:   
+            https://www.udemy.com/course/the-complete-javascript-course/
