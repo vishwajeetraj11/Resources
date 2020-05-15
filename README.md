@@ -1,8 +1,8 @@
 # Resources
 Resources to make life Easy
 
-1. Play With PDF
-   Link : www.ilovepdf.com
+1. Play With PDF.
+    Link : www.ilovepdf.com
     1. Merge PDF
     2. Split PDF
     3. Compress PDF
