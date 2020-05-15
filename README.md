@@ -39,9 +39,9 @@ Resources to make life Easy
     2. Free Illustrations:  
         https://undraw.co/
     3. Free High Resolution Photos:  
-        Pexel:  
-             https://www.pexels.com/  
-        Unsplash:  
-             https://unsplash.com/
+            Pexel:  
+                https://www.pexels.com/  
+            Unsplash:  
+                https://unsplash.com/
 
         
