@@ -1,7 +1,7 @@
 # Resources
 Resources to make life Easy
 
-1. Play With PDF.
+1. Play With PDF  
     Link : www.ilovepdf.com
     1. Merge PDF
     2. Split PDF
@@ -27,3 +27,5 @@ Resources to make life Easy
 2. Top JavaScript Courses
     1. DevelopedByEd:  
             The Creative JavaScript Course : https://developedbyed.com/p/the-creative-javascript-course
+    2. Jonas Schmedmetmann: 
+            The Complete JavaScript Course 2020: Build Real Projects!: The Complete JavaScript Course 2020: Build Real Projects!
