@@ -40,7 +40,7 @@ Resources to make life Easy
         https://undraw.co/
     3. Free High Resolution Photos:  
         Pexel:  
-             https://www.pexels.com/
+             https://www.pexels.com/  
         Unsplash:  
              https://unsplash.com/
 
