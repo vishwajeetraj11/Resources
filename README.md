@@ -31,3 +31,17 @@ Resources to make life Easy
     2. Jonas Schmedmetmann:  
             The Complete JavaScript Course 2020: Build Real Projects!:   
             https://www.udemy.com/course/the-complete-javascript-course/
+            
+           
+3. Front End Web Development
+    1. Beautiful Free Stock Video Footage:   
+        https://coverr.co/  
+    2. Free Illustrations:  
+        https://undraw.co/
+    3. Free High Resolution Photos:  
+        Pexel:  
+             https://www.pexels.com/
+        Unsplash:  
+             https://unsplash.com/
+
+        
