@@ -25,5 +25,5 @@ Resources to make life Easy
     20. Repair PDF
 
 2. Top JavaScript Courses
-    1. DevelopedByEd:
+    1. DevelopedByEd:  
             The Creative JavaScript Course : https://developedbyed.com/p/the-creative-javascript-course
