@@ -39,13 +39,13 @@ Resources to make life Easy
     2. Free Illustrations:  
         https://undraw.co/
     3. Free High Resolution Photos:  
-            1. Pexel:  
-                  https://www.pexels.com/  
-            2. Unsplash:  
-                  https://unsplash.com/  
+        1. Pexel:  
+            https://www.pexels.com/  
+        2. Unsplash:  
+            https://unsplash.com/  
     4. Free Icon Fonts
         1. Font Awesome:     
-        https://fontawesome.com/start    
+            https://fontawesome.com/start    
     5.  Free SVG Icons:    
         1. Flat Icon:     
               https://www.flaticon.com/    
