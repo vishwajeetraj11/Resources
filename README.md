@@ -52,7 +52,7 @@ Resources to make life Easy
         Icons8: 
             https://icons8.com/
     5. Can I Use:  
-        https://caniuse.com/
+        https://caniuse.com/  
         Cross Browser Support:  
         Use this website to check for brower compatibility for any CSS Property.   
         So,  that your website dosen't looks broken in other browser.  
