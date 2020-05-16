@@ -39,19 +39,19 @@ Resources to make life Easy
     2. Free Illustrations:  
         https://undraw.co/
     3. Free High Resolution Photos:  
-            Pexel:  
-                https://www.pexels.com/  
-            Unsplash:  
-                https://unsplash.com/
+            1. Pexel:  
+                  https://www.pexels.com/  
+            2. Unsplash:  
+                  https://unsplash.com/  
     4. Free Icon Fonts
-        Font Awesome:   
-        https://fontawesome.com/start  
-        Free SVG Icons:  
-        Flat Icon:   
-            https://www.flaticon.com/  
-        Icons8: 
-            https://icons8.com/
-    5. Can I Use:  
+        1. Font Awesome:     
+        https://fontawesome.com/start    
+    5.  Free SVG Icons:    
+        1. Flat Icon:     
+              https://www.flaticon.com/    
+        2. Icons8:   
+              https://icons8.com/
+    6. Can I Use:  
         https://caniuse.com/  
         Cross Browser Support:  
         Use this website to check for brower compatibility for any CSS Property.   
