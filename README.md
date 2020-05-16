@@ -33,7 +33,7 @@ Resources to make life Easy
             https://www.udemy.com/course/the-complete-javascript-course/
             
            
-3. Front End Web Development
+3. Front End Web Development Resources
     1. Beautiful Free Stock Video Footage:   
         https://coverr.co/  
     2. Free Illustrations:  
@@ -43,5 +43,17 @@ Resources to make life Easy
                 https://www.pexels.com/  
             Unsplash:  
                 https://unsplash.com/
-
+    4. Free Icon Fonts
+        Font Awesome:   
+        https://fontawesome.com/start  
+        Free SVG Icons:  
+        Flat Icon:   
+            https://www.flaticon.com/  
+        Icons8: 
+            https://icons8.com/
+    5. Can I Use:  
+        https://caniuse.com/
+        Cross Browser Support:  
+        Use this website to check for brower compatibility for any CSS Property.   
+        So,  that your website dosen't looks broken in other browser.  
         
