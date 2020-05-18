@@ -57,8 +57,8 @@ Resources to make life Easy
         Use this website to check for brower compatibility for any CSS Property.   
         So,  that your website dosen't looks broken in other browser. 
     
-How to find the date of creation of a repsitory 
-Use the Repos GitHub API to retrieve this information
+How to find the date of creation of a repsitory   
+Use the Repos GitHub API to retrieve this information  
 
-Syntax: https://api.github.com/repos/{:owner}/{:repository}
-Example: https://api.github.com/repos/vishwajeetraj11/Natours-Web-Application      
+Syntax: https://api.github.com/repos/{:owner}/{:repository}  
+Example: https://api.github.com/repos/vishwajeetraj11/Natours-Web-Application        
