@@ -23,6 +23,7 @@ Resources to make life Easy
     18. Organize PDF
     19. PDF to PDF/A
     20. Repair PDF
+   
 
 2. Top JavaScript Courses
     1. DevelopedByEd:  
@@ -61,4 +62,6 @@ How to find the date of creation of a repository,
 Use the Repos GitHub API to retrieve this information  
 
 Syntax: https://api.github.com/repos/{:owner}/{:repository}  
-Example: https://api.github.com/repos/vishwajeetraj11/Natours-Web-Application        
+Example: https://api.github.com/repos/vishwajeetraj11/Natours-Web-Application          
+  
+Gif resize,crop,optimize = https://ezgif.com/
