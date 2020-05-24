@@ -64,4 +64,6 @@ Use the Repos GitHub API to retrieve this information
 Syntax: https://api.github.com/repos/{:owner}/{:repository}  
 Example: https://api.github.com/repos/vishwajeetraj11/Natours-Web-Application          
   
-Gif resize,crop,optimize = https://ezgif.com/
+Gif resize,crop,optimize = https://ezgif.com/  
+http://jpeg-optimizer.com/  
+https://compress-or-die.com/
