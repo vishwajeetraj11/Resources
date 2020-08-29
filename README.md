@@ -46,7 +46,10 @@ Resources to make life Easy
             https://unsplash.com/  
     4. Free Icon Fonts
         1. Font Awesome:     
-            https://fontawesome.com/start    
+            https://fontawesome.com/start 
+        2. IconMonstr  
+            https://iconmonstr.com/  
+
     5.  Free SVG Icons:    
         1. Flat Icon:     
               https://www.flaticon.com/    
