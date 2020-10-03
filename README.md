@@ -59,7 +59,18 @@ Resources to make life Easy
         https://caniuse.com/  
         Cross Browser Support:  
         Use this website to check for brower compatibility for any CSS Property.   
-        So,  that your website dosen't looks broken in other browser. 
+        So,  that your website dosen't looks broken in other browser.  
+  
+4. Design Resources  
+    To design things you need inspiration. Seek it from:  
+    1.  Dribbble  
+            https://dribbble.com/  
+    2.  Pinterest  
+            https://in.pinterest.com/  
+    3.  Behance  
+            https://www.behance.net/  
+    4.  Land-book  
+            https://land-book.com/  
      
 How to find the date of creation of a repository,   
 Use the Repos GitHub API to retrieve this information  
