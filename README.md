@@ -70,7 +70,11 @@ Resources to make life Easy
     3.  Behance  
             https://www.behance.net/  
     4.  Land-book  
-            https://land-book.com/  
+            https://land-book.com/ 
+            
+             
+    5.  Adele: The repository of publicly available design systems and pattern libraries   
+            https://adele.uxpin.com/  
      
 How to find the date of creation of a repository,   
 Use the Repos GitHub API to retrieve this information  
