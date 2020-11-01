@@ -74,7 +74,11 @@ Resources to make life Easy
             
              
     5.  Adele: The repository of publicly available design systems and pattern libraries   
-            https://adele.uxpin.com/  
+            https://adele.uxpin.com/    
+            
+5. Online video making websites
+    1. https://app.offeo.com/  
+    2. https://motionden.com/
      
 How to find the date of creation of a repository,   
 Use the Repos GitHub API to retrieve this information  
