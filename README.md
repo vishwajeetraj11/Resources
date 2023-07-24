@@ -89,3 +89,6 @@ Example: https://api.github.com/repos/vishwajeetraj11/Natours-Web-Application
 Gif resize,crop,optimize = https://ezgif.com/  
 http://jpeg-optimizer.com/  
 https://compress-or-die.com/
+
+Debug SEO 
+https://developers.facebook.com/tools/debug/?q=https%3A%2F%2Fdeepak222222.graphyapp.co%2Fsessions
